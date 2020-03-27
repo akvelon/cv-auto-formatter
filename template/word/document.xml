@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document mc:Ignorable="w14 w15 wp14" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+	<w:body>
+		<w:p w14:paraId="575FC344" w14:textId="0C6D3240" w:rsidP="00241C5E" w:rsidR="009D19F3" w:rsidRDefault="00D67626" w:rsidRPr="00241C5E">
+			<w:pPr>
+				<w:pStyle w:val="Title"/>
+				<w:rPr>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r w:rsidRPr="00241C5E">
+				<w:rPr>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+				<w:t xml:space="preserve">Name, Title</w:t>
+			</w:r>
+			<w:proofErr w:type="spellStart"/>
+			<w:proofErr w:type="spellEnd"/>
+		</w:p>
+		<w:p w14:paraId="0FD2DDCD" w14:textId="77777777" w:rsidP="00241C5E" w:rsidR="009D19F3" w:rsidRDefault="009D19F3" w:rsidRPr="00241C5E">
+			<w:pPr>
+				<w:pStyle w:val="Normal1"/>
+				<w:pBdr>
+					<w:bottom w:color="00000A" w:space="1" w:sz="12" w:val="single"/>
+				</w:pBdr>
+				<w:spacing w:line="276" w:lineRule="auto"/>
+				<w:ind w:firstLine="708"/>
+				<w:jc w:val="both"/>
+				<w:rPr>
+					<w:rFonts w:cstheme="minorHAnsi"/>
+					<w:color w:themeColor="text1" w:val="000000"/>
+					<w:sz w:val="2"/>
+					<w:szCs w:val="2"/>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+			</w:pPr>
+		</w:p>
+		<w:p w14:paraId="33090747" w14:textId="77777777" w:rsidP="00241C5E" w:rsidR="00241C5E" w:rsidRDefault="00241C5E">
+			<w:pPr>
+				<w:pStyle w:val="Heading1"/>
+				<w:rPr>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+			</w:pPr>
+		</w:p>
+		<w:p w14:paraId="2793A9A3" w14:textId="77777777" w:rsidP="00241C5E" w:rsidR="00A069E1" w:rsidRDefault="00110CE1">
+			<w:pPr>
+				<w:pStyle w:val="Heading1"/>
+				<w:rPr>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r w:rsidRPr="00241C5E">
+				<w:rPr>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+				<w:t>PROFESSIONAL SUMMARY</w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="7C69076E" w14:textId="77777777" w:rsidP="00241C5E" w:rsidR="00241C5E" w:rsidRDefault="00241C5E" w:rsidRPr="00241C5E">
+			<w:pPr>
+				<w:rPr>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+			</w:pPr>
+		</w:p>
+		<w:p w14:paraId="66DF937A" w14:textId="446480A8" w:rsidP="00241C5E" w:rsidR="00A069E1" w:rsidRDefault="00893488" w:rsidRPr="00241C5E">
+			<w:pPr>
+				<w:rPr>
+					<w:rFonts w:asciiTheme="minorHAnsi" w:cstheme="minorHAnsi" w:hAnsiTheme="minorHAnsi"/>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r w:rsidRPr="00241C5E">
+				<w:rPr>
+					<w:rFonts w:asciiTheme="minorHAnsi" w:cstheme="minorHAnsi" w:hAnsiTheme="minorHAnsi"/>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+				<w:t xml:space="preserve">Put text of professional summary here</w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="600AD254" w14:textId="77777777" w:rsidP="00241C5E" w:rsidR="00BC0C1D" w:rsidRDefault="00BC0C1D" w:rsidRPr="00241C5E">
+			<w:pPr>
+				<w:ind w:right="86"/>
+				<w:rPr>
+					<w:rFonts w:asciiTheme="minorHAnsi" w:cstheme="minorHAnsi" w:eastAsia="Quattrocento Sans" w:hAnsiTheme="minorHAnsi"/>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+			</w:pPr>
+		</w:p>
+		<w:p w14:paraId="2CD5BF0C" w14:textId="2E6FCDF9" w:rsidP="00241C5E" w:rsidR="00662414" w:rsidRDefault="00F537BA">
+			<w:pPr>
+				<w:pStyle w:val="Heading1"/>
+				<w:rPr>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r w:rsidRPr="00241C5E">
+				<w:rPr>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+				<w:t>TECHNOLOGY SUMMARY</w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="644F0297" w14:textId="77777777" w:rsidP="00241C5E" w:rsidR="00241C5E" w:rsidRDefault="00241C5E" w:rsidRPr="00241C5E">
+			<w:pPr>
+				<w:rPr>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+			</w:pPr>
+		</w:p>
+		<w:tbl>
+			<w:tblPr>
+				<w:tblStyle w:val="a2"/>
+				<w:tblW w:type="dxa" w:w="9360"/>
+				<w:tblLayout w:type="fixed"/>
+				<w:tblLook w:firstColumn="0" w:firstRow="0" w:lastColumn="0" w:lastRow="0" w:noHBand="0" w:noVBand="0" w:val="0000"/>
+			</w:tblPr>
+			<w:tblGrid>
+				<w:gridCol w:w="2160"/>
+				<w:gridCol w:w="7830"/>
+			</w:tblGrid>
+			<w:tr w14:paraId="1946CCA8" w14:textId="77777777" w:rsidR="00241C5E" w:rsidRPr="00241C5E" w:rsidTr="00D67626">
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:type="dxa" w:w="2160"/>
+					</w:tcPr>
+					<w:p w14:paraId="54B9C55E" w14:textId="77777777" w:rsidP="00241C5E" w:rsidR="00A069E1" w:rsidRDefault="00110CE1" w:rsidRPr="00241C5E">
+						<w:pPr>
+							<w:pStyle w:val="Heading2"/>
+							<w:jc w:val="left"/>
+							<w:rPr>
+								<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsia="Quattrocento Sans" w:hAnsiTheme="minorHAnsi"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00241C5E">
+							<w:rPr>
+								<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsia="Quattrocento Sans" w:hAnsiTheme="minorHAnsi"/>
+							</w:rPr>
+							<w:t>Languages:</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:type="dxa" w:w="7830"/>
+					</w:tcPr>
+					<w:p w14:paraId="75D57718" w14:textId="69E45B60" w:rsidP="00241C5E" w:rsidR="00A069E1" w:rsidRDefault="008566EA" w:rsidRPr="00241C5E">
+						<w:pPr>
+							<w:rPr>
+								<w:rFonts w:asciiTheme="minorHAnsi" w:cstheme="minorHAnsi" w:eastAsia="Quattrocento Sans" w:hAnsiTheme="minorHAnsi"/>
+								<w:lang w:val="en-US"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00241C5E">
+							<w:rPr>
+								<w:rFonts w:asciiTheme="minorHAnsi" w:cstheme="minorHAnsi" w:eastAsia="Quattrocento Sans" w:hAnsiTheme="minorHAnsi"/>
+							</w:rPr>
+							<w:t>Put languages Here</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w14:paraId="02462F54" w14:textId="77777777" w:rsidR="00241C5E" w:rsidRPr="00241C5E" w:rsidTr="00D67626">
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:type="dxa" w:w="2160"/>
+					</w:tcPr>
+					<w:p w14:paraId="4C26031A" w14:textId="77777777" w:rsidP="00241C5E" w:rsidR="00A069E1" w:rsidRDefault="00442C7F" w:rsidRPr="00241C5E">
+						<w:pPr>
+							<w:pStyle w:val="Heading2"/>
+							<w:jc w:val="left"/>
+							<w:rPr>
+								<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsia="Quattrocento Sans" w:hAnsiTheme="minorHAnsi"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00241C5E">
+							<w:rPr>
+								<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsia="Quattrocento Sans" w:hAnsiTheme="minorHAnsi"/>
+								<w:lang w:val="en-US"/>
+							</w:rPr>
+							<w:t xml:space="preserve">Technologies and Frameworks: </w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:type="dxa" w:w="7830"/>
+					</w:tcPr>
+					<w:p w14:paraId="26483721" w14:textId="7C609A76" w:rsidP="00241C5E" w:rsidR="008566EA" w:rsidRDefault="00D67626" w:rsidRPr="00241C5E">
+						<w:pPr>
+							<w:rPr>
+								<w:rFonts w:asciiTheme="minorHAnsi" w:cstheme="minorHAnsi" w:eastAsia="Quattrocento Sans" w:hAnsiTheme="minorHAnsi"/>
+								<w:lang w:val="en-US"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00241C5E">
+							<w:rPr>
+								<w:rFonts w:asciiTheme="minorHAnsi" w:cstheme="minorHAnsi" w:eastAsia="Quattrocento Sans" w:hAnsiTheme="minorHAnsi"/>
+								<w:lang w:val="en-US"/>
+							</w:rPr>
+							<w:t>Put tech and frameworks here</w:t>
+						</w:r>
+						<w:proofErr w:type="spellEnd"/>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w14:paraId="47794820" w14:textId="77777777" w:rsidR="00241C5E" w:rsidRPr="00241C5E" w:rsidTr="00D67626">
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:type="dxa" w:w="2160"/>
+					</w:tcPr>
+					<w:p w14:paraId="59924BFB" w14:textId="77777777" w:rsidP="00241C5E" w:rsidR="00A069E1" w:rsidRDefault="00110CE1" w:rsidRPr="00241C5E">
+						<w:pPr>
+							<w:pStyle w:val="Heading2"/>
+							<w:jc w:val="left"/>
+							<w:rPr>
+								<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsia="Quattrocento Sans" w:hAnsiTheme="minorHAnsi"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00241C5E">
+							<w:rPr>
+								<w:rFonts w:asciiTheme="minorHAnsi" w:eastAsia="Quattrocento Sans" w:hAnsiTheme="minorHAnsi"/>
+							</w:rPr>
+							<w:t>DBMS:</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:type="dxa" w:w="7830"/>
+					</w:tcPr>
+					<w:p w14:paraId="5C79CB4E" w14:textId="3FFDEB93" w:rsidP="00241C5E" w:rsidR="00A069E1" w:rsidRDefault="00442C7F" w:rsidRPr="00241C5E">
+						<w:pPr>
+							<w:rPr>
+								<w:rFonts w:asciiTheme="minorHAnsi" w:cstheme="minorHAnsi" w:eastAsia="Quattrocento Sans" w:hAnsiTheme="minorHAnsi"/>
+								<w:lang w:val="en-US"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00241C5E">
+							<w:rPr>
+								<w:rFonts w:asciiTheme="minorHAnsi" w:cstheme="minorHAnsi" w:eastAsia="Quattrocento Sans" w:hAnsiTheme="minorHAnsi"/>
+								<w:lang w:val="en-US"/>
+							</w:rPr>
+							<w:t>Text</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+		</w:tbl>
+		<w:p w14:paraId="4E65D6B7" w14:textId="123D9DD4" w:rsidP="00241C5E" w:rsidR="00E86E7D" w:rsidRDefault="00E86E7D" w:rsidRPr="00241C5E">
+			<w:pPr>
+				<w:ind w:right="90"/>
+				<w:rPr>
+					<w:rFonts w:asciiTheme="minorHAnsi" w:cstheme="minorHAnsi" w:eastAsia="Quattrocento Sans" w:hAnsiTheme="minorHAnsi"/>
+					<w:b/>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+			</w:pPr>
+		</w:p>
+		<w:p w14:paraId="3E401ECE" w14:textId="77777777" w:rsidP="00241C5E" w:rsidR="00F537BA" w:rsidRDefault="00F537BA">
+			<w:pPr>
+				<w:pStyle w:val="Heading1"/>
+				<w:rPr>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r w:rsidRPr="00241C5E">
+				<w:rPr>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+				<w:t>KEY TECHNICAL SKILLS</w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="2B8AA157" w14:textId="77777777" w:rsidP="00241C5E" w:rsidR="00241C5E" w:rsidRDefault="00241C5E" w:rsidRPr="00241C5E">
+			<w:pPr>
+				<w:rPr>
+					<w:highlight w:val="yellow"/>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+			</w:pPr>
+		</w:p>
+		<w:tbl>
+			<w:tblPr>
+				<w:tblStyle w:val="a3"/>
+				<w:tblW w:type="dxa" w:w="9360"/>
+				<w:tblBorders>
+					<w:top w:val="nil"/>
+					<w:left w:val="nil"/>
+					<w:bottom w:val="nil"/>
+					<w:right w:val="nil"/>
+					<w:insideH w:val="nil"/>
+					<w:insideV w:val="nil"/>
+				</w:tblBorders>
+				<w:tblLayout w:type="fixed"/>
+				<w:tblLook w:firstColumn="0" w:firstRow="0" w:lastColumn="0" w:lastRow="0" w:noHBand="0" w:noVBand="1" w:val="0400"/>
+			</w:tblPr>
+			<w:tblGrid>
+				<w:gridCol w:w="9630"/>
+			</w:tblGrid>
+			<w:tr w14:paraId="11295543" w14:textId="77777777" w:rsidR="00241C5E" w:rsidRPr="00241C5E" w:rsidTr="00241C5E">
+				<w:trPr>
+					<w:trHeight w:val="1332"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:type="dxa" w:w="9630"/>
+					</w:tcPr>
+					<w:p w14:paraId="4B7CC43C" w14:textId="1B0997BE" w:rsidP="00241C5E" w:rsidR="008566EA" w:rsidRDefault="008566EA" w:rsidRPr="00241C5E">
+						<w:pPr>
+							<w:ind w:right="90"/>
+							<w:rPr>
+								<w:rFonts w:asciiTheme="minorHAnsi" w:cstheme="minorHAnsi" w:eastAsia="Quattrocento Sans" w:hAnsiTheme="minorHAnsi"/>
+								<w:b/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00241C5E">
+							<w:rPr>
+								<w:rFonts w:asciiTheme="minorHAnsi" w:cstheme="minorHAnsi" w:eastAsia="Quattrocento Sans" w:hAnsiTheme="minorHAnsi"/>
+								<w:b/>
+								<w:lang w:val="en-US"/>
+							</w:rPr>
+							<w:t xml:space="preserve">Key Skill</w:t>
+						</w:r>
+					</w:p>
+					<w:p w14:paraId="5BD99569" w14:textId="341C1476" w:rsidP="00241C5E" w:rsidR="008566EA" w:rsidRDefault="008566EA" w:rsidRPr="00241C5E">
+						<w:pPr>
+							<w:pStyle w:val="ListParagraph"/>
+							<w:rPr>
+								<w:rFonts w:eastAsia="Quattrocento Sans"/>
+								<w:b/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00241C5E">
+							<w:rPr>
+								<w:rFonts w:eastAsia="Quattrocento Sans"/>
+								<w:lang w:val="en-US"/>
+							</w:rPr>
+							<w:t>Bullet point</w:t>
+						</w:r>
+					</w:p>
+					<w:p w14:paraId="3CEAA784" w14:textId="7CDCB401" w:rsidP="00241C5E" w:rsidR="008566EA" w:rsidRDefault="008566EA" w:rsidRPr="00241C5E">
+						<w:pPr>
+							<w:ind w:left="334"/>
+							<w:rPr>
+								<w:rFonts w:asciiTheme="minorHAnsi" w:cstheme="minorHAnsi" w:eastAsia="Quattrocento Sans" w:hAnsiTheme="minorHAnsi"/>
+								<w:b/>
+							</w:rPr>
+						</w:pPr>
+					</w:p>
+				</w:tc>
+			</w:tr>
+		</w:tbl>
+		<w:p w14:paraId="58E9C92B" w14:textId="77777777" w:rsidP="00241C5E" w:rsidR="00A069E1" w:rsidRDefault="00110CE1">
+			<w:pPr>
+				<w:pStyle w:val="Heading1"/>
+				<w:rPr>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r w:rsidRPr="00241C5E">
+				<w:rPr>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+				<w:lastRenderedPageBreak/>
+				<w:t>PROFESSIONAL EXPERIENCE</w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="12AB5B13" w14:textId="77777777" w:rsidP="00241C5E" w:rsidR="00241C5E" w:rsidRDefault="00241C5E" w:rsidRPr="00241C5E">
+			<w:pPr>
+				<w:rPr>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+			</w:pPr>
+		</w:p>
+		<w:p w14:paraId="1BD74EE4" w14:textId="52D19096" w:rsidP="00241C5E" w:rsidR="0021085C" w:rsidRDefault="0021085C" w:rsidRPr="00241C5E">
+			<w:pPr>
+				<w:pStyle w:val="Heading2"/>
+				<w:rPr>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r w:rsidRPr="00241C5E">
+				<w:rPr>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+				<w:t>Company - City, State</w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="2DFA3342" w14:textId="5A0AADC8" w:rsidP="00241C5E" w:rsidR="0021085C" w:rsidRDefault="0021085C" w:rsidRPr="00241C5E">
+			<w:pPr>
+				<w:rPr>
+					<w:rFonts w:asciiTheme="minorHAnsi" w:cstheme="minorHAnsi" w:eastAsia="Quattrocento Sans" w:hAnsiTheme="minorHAnsi"/>
+					<w:b/>
+					<w:i/>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r w:rsidRPr="00241C5E">
+				<w:rPr>
+					<w:rFonts w:asciiTheme="minorHAnsi" w:cstheme="minorHAnsi" w:eastAsia="Quattrocento Sans" w:hAnsiTheme="minorHAnsi"/>
+					<w:b/>
+					<w:i/>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+				<w:t>Job title</w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="728D27D1" w14:textId="13DE38CC" w:rsidP="00241C5E" w:rsidR="0021085C" w:rsidRDefault="00DC53ED" w:rsidRPr="00241C5E">
+			<w:pPr>
+				<w:rPr>
+					<w:rFonts w:asciiTheme="minorHAnsi" w:cstheme="minorHAnsi" w:eastAsia="Quattrocento Sans" w:hAnsiTheme="minorHAnsi"/>
+					<w:i/>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r w:rsidRPr="00241C5E">
+				<w:rPr>
+					<w:rFonts w:asciiTheme="minorHAnsi" w:cstheme="minorHAnsi" w:eastAsia="Quattrocento Sans" w:hAnsiTheme="minorHAnsi"/>
+					<w:i/>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+				<w:t>Dates</w:t>
+			</w:r>
+		</w:p>
+
+
+		<w:p w14:paraId="7E9F8187" w14:textId="7D384683" w:rsidP="00241C5E" w:rsidR="008566EA" w:rsidRDefault="008566EA" w:rsidRPr="00241C5E">
+			<w:pPr>
+				<w:pStyle w:val="ListParagraph"/>
+				<w:numPr>
+					<w:ilvl w:val="0"/>
+					<w:numId w:val="9"/>
+				</w:numPr>
+				<w:ind w:left="360"/>
+				<w:rPr>
+					<w:rFonts w:asciiTheme="minorHAnsi" w:cstheme="minorHAnsi" w:hAnsiTheme="minorHAnsi"/>
+					<w:i/>
+					<w:iCs/>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r w:rsidRPr="00241C5E">
+				<w:rPr>
+					<w:rFonts w:asciiTheme="minorHAnsi" w:cstheme="minorHAnsi" w:eastAsia="Quattrocento Sans" w:hAnsiTheme="minorHAnsi"/>
+					<w:b/>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+				<w:t xml:space="preserve">Project Title </w:t>
+			</w:r>
+			<w:r w:rsidRPr="00241C5E">
+				<w:rPr>
+					<w:rFonts w:asciiTheme="minorHAnsi" w:cstheme="minorHAnsi" w:eastAsia="Quattrocento Sans" w:hAnsiTheme="minorHAnsi"/>
+					<w:i/>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+				<w:t xml:space="preserve">- description of project</w:t>
+			</w:r>
+		</w:p>
+
+
+		<w:p w14:paraId="48390B6F" w14:textId="77777777" w:rsidP="00241C5E" w:rsidR="008566EA" w:rsidRDefault="008566EA" w:rsidRPr="00241C5E">
+			<w:pPr>
+				<w:rPr>
+					<w:rFonts w:asciiTheme="minorHAnsi" w:cstheme="minorHAnsi" w:eastAsia="Quattrocento Sans" w:hAnsiTheme="minorHAnsi"/>
+					<w:u w:val="single"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r w:rsidRPr="00241C5E">
+				<w:rPr>
+					<w:rFonts w:asciiTheme="minorHAnsi" w:cstheme="minorHAnsi" w:eastAsia="Quattrocento Sans" w:hAnsiTheme="minorHAnsi"/>
+					<w:u w:val="single"/>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+				<w:t>Personal achievements:</w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="4F7870AC" w14:textId="50E23FCD" w:rsidP="00241C5E" w:rsidR="008566EA" w:rsidRDefault="008566EA" w:rsidRPr="00241C5E">
+			<w:pPr>
+				<w:pStyle w:val="ListParagraph"/>
+			</w:pPr>
+			<w:r w:rsidRPr="00241C5E">
+				<w:t>Bullet point;</w:t>
+			</w:r>
+		</w:p>
+
+
+		<w:p w14:paraId="48390B6F" w14:textId="77777777" w:rsidP="00241C5E" w:rsidR="008566EA" w:rsidRDefault="008566EA" w:rsidRPr="00241C5E">
+			<w:pPr>
+				<w:rPr>
+					<w:rFonts w:asciiTheme="minorHAnsi" w:cstheme="minorHAnsi" w:eastAsia="Quattrocento Sans" w:hAnsiTheme="minorHAnsi"/>
+					<w:u w:val="single"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r w:rsidRPr="00241C5E">
+				<w:rPr>
+					<w:rFonts w:asciiTheme="minorHAnsi" w:cstheme="minorHAnsi" w:eastAsia="Quattrocento Sans" w:hAnsiTheme="minorHAnsi"/>
+					<w:u w:val="single"/>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+				<w:t>Responsibilities:</w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="4F7870AC" w14:textId="50E23FCD" w:rsidP="00241C5E" w:rsidR="008566EA" w:rsidRDefault="008566EA" w:rsidRPr="00241C5E">
+			<w:pPr>
+				<w:pStyle w:val="ListParagraph"/>
+			</w:pPr>
+			<w:r w:rsidRPr="00241C5E">
+				<w:t>Bullet point;</w:t>
+			</w:r>
+		</w:p>
+
+
+
+		
+		
+		
+		
+		<w:p w14:paraId="2786EF85" w14:textId="405F7CD1" w:rsidP="00241C5E" w:rsidR="008566EA" w:rsidRDefault="008566EA" w:rsidRPr="00241C5E">
+			<w:pPr>
+				<w:rPr>
+					<w:rFonts w:asciiTheme="minorHAnsi" w:cstheme="minorHAnsi" w:eastAsia="Quattrocento Sans" w:hAnsiTheme="minorHAnsi"/>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r w:rsidRPr="00241C5E">
+				<w:rPr>
+					<w:rFonts w:asciiTheme="minorHAnsi" w:cstheme="minorHAnsi" w:eastAsia="Quattrocento Sans" w:hAnsiTheme="minorHAnsi"/>
+					<w:u w:val="single"/>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+				<w:t>Used languages and technologies</w:t>
+			</w:r>
+			<w:r w:rsidRPr="00241C5E">
+				<w:rPr>
+					<w:rFonts w:asciiTheme="minorHAnsi" w:cstheme="minorHAnsi" w:eastAsia="Quattrocento Sans" w:hAnsiTheme="minorHAnsi"/>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+				<w:t xml:space="preserve">: </w:t>
+			</w:r>
+			<w:r w:rsidR="00BC0C1D" w:rsidRPr="00241C5E">
+				<w:rPr>
+					<w:rFonts w:asciiTheme="minorHAnsi" w:cstheme="minorHAnsi" w:eastAsia="Quattrocento Sans" w:hAnsiTheme="minorHAnsi"/>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+				<w:t>List of langs and techs here</w:t>
+			</w:r>
+		</w:p>
+
+
+
+
+
+		
+		<w:p w14:paraId="2264978E" w14:textId="77777777" w:rsidP="00241C5E" w:rsidR="006A3737" w:rsidRDefault="006A3737" w:rsidRPr="00241C5E">
+			<w:pPr>
+				<w:rPr>
+					<w:rFonts w:asciiTheme="minorHAnsi" w:cstheme="minorHAnsi" w:eastAsia="Quattrocento Sans" w:hAnsiTheme="minorHAnsi"/>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+			</w:pPr>
+		</w:p>
+		<w:p w14:paraId="543ADA9D" w14:textId="77777777" w:rsidP="00241C5E" w:rsidR="00A069E1" w:rsidRDefault="00110CE1">
+			<w:pPr>
+				<w:pStyle w:val="Heading1"/>
+				<w:rPr>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r w:rsidRPr="00241C5E">
+				<w:rPr>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+				<w:t>EDUCATION</w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="555FBC45" w14:textId="77777777" w:rsidP="00241C5E" w:rsidR="00241C5E" w:rsidRDefault="00241C5E" w:rsidRPr="00241C5E">
+			<w:pPr>
+				<w:rPr>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+			</w:pPr>
+		</w:p>
+		<w:p w14:paraId="70E190D9" w14:textId="7C6D9DA3" w:rsidP="00241C5E" w:rsidR="00A069E1" w:rsidRDefault="00D87BC0" w:rsidRPr="00241C5E">
+			<w:pPr>
+				<w:jc w:val="center"/>
+				<w:rPr>
+					<w:rFonts w:asciiTheme="minorHAnsi" w:cstheme="minorHAnsi" w:eastAsia="Quattrocento Sans" w:hAnsiTheme="minorHAnsi"/>
+					<w:i/>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+			</w:pPr>
+			<w:bookmarkStart w:colFirst="0" w:colLast="0" w:id="1" w:name="_heading=h.30j0zll"/>
+			<w:bookmarkEnd w:id="1"/>
+			<w:r w:rsidRPr="00241C5E">
+				<w:rPr>
+					<w:rFonts w:asciiTheme="minorHAnsi" w:cstheme="minorHAnsi" w:eastAsia="Quattrocento Sans" w:hAnsiTheme="minorHAnsi"/>
+					<w:b/>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+				<w:t>Degree</w:t>
+			</w:r>
+			<w:r w:rsidR="00241C5E">
+				<w:rPr>
+					<w:rFonts w:asciiTheme="minorHAnsi" w:cstheme="minorHAnsi" w:eastAsia="Quattrocento Sans" w:hAnsiTheme="minorHAnsi"/>
+					<w:b/>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+				<w:t xml:space="preserve"/>
+			</w:r>
+			<w:r w:rsidR="00241C5E" w:rsidRPr="00241C5E">
+				<w:rPr>
+					<w:rFonts w:asciiTheme="minorHAnsi" w:cstheme="minorHAnsi" w:eastAsia="Quattrocento Sans" w:hAnsiTheme="minorHAnsi"/>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+				<w:t>–</w:t>
+			</w:r>
+			<w:r w:rsidR="00241C5E">
+				<w:rPr>
+					<w:rFonts w:asciiTheme="minorHAnsi" w:cstheme="minorHAnsi" w:eastAsia="Quattrocento Sans" w:hAnsiTheme="minorHAnsi"/>
+					<w:b/>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+				<w:t xml:space="preserve"/>
+			</w:r>
+			<w:r w:rsidRPr="00241C5E">
+				<w:rPr>
+					<w:rFonts w:asciiTheme="minorHAnsi" w:cstheme="minorHAnsi" w:eastAsia="Quattrocento Sans" w:hAnsiTheme="minorHAnsi"/>
+					<w:i/>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+				<w:t>School</w:t>
+			</w:r>
+		</w:p>
+		<w:sectPr w:rsidR="00A069E1" w:rsidRPr="00241C5E" w:rsidSect="00241C5E">
+			<w:headerReference r:id="rId8" w:type="default"/>
+			<w:footerReference r:id="rId9" w:type="default"/>
+			<w:pgSz w:h="15840" w:w="12240"/>
+			<w:pgMar w:bottom="1440" w:footer="720" w:gutter="0" w:header="720" w:left="1440" w:right="1440" w:top="1440"/>
+			<w:pgNumType w:start="1"/>
+			<w:cols w:space="720"/>
+			<w:docGrid w:linePitch="326"/>
+		</w:sectPr>
+	</w:body>
+</w:document>
