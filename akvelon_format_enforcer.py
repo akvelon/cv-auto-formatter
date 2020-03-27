@@ -1,8 +1,6 @@
 import info_extractor
-import argparse
 import docx
 import os
-import pdb
 import datetime
 
 from lxml import etree as ET
@@ -13,7 +11,7 @@ import zipfile
 
 import utils
 
-DOCUMENTS = os.listdir("./inputs/")
+DOCUMENTS = [item for item in os.listdir("./inputs/") if not item.endswith("gitkeep")]
 
 def format_resume(DOCUMENT_PATH):
     
